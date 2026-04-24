@@ -1,3 +1,4 @@
 # Ignore training and validation data folders
 train/
 valid/
+data.yaml
